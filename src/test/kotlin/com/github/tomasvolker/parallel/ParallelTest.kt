@@ -1,4 +1,4 @@
-package tomasvolker.parallel
+package com.github.tomasvolker.parallel
 
 import org.junit.Test
 import kotlin.math.absoluteValue
