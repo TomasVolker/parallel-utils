@@ -1,8 +1,8 @@
-#Kotlin Parallel Utils
+# Kotlin Parallel Utils
 
 This library contains Kotlin utilities for parallelization.
 
-####Groovy DSL
+#### Groovy DSL
 
 ```groovy
 repositories {
@@ -14,7 +14,7 @@ dependencies {
 }
 ```
 
-####Kotlin DSL
+#### Kotlin DSL
 ```kotlin
 repositories {
     maven { url = uri("https://jitpack.io") }
