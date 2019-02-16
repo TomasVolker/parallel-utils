@@ -10,7 +10,7 @@ repositories {
 }
 
 dependencies {
-    implementation group: "com.github.tomasvolker", name: "parallel-utils", version: "1.0"
+    implementation group: "com.github.tomasvolker", name: "parallel-utils", version: "v1.0"
 }
 ```
 
@@ -21,6 +21,6 @@ repositories {
 }
 
 dependencies {
-    implementation(group = "com.github.tomasvolker", name = "parallel-utils", version = "1.0")
+    implementation(group = "com.github.tomasvolker", name = "parallel-utils", version = "v1.0")
 }
 ```
