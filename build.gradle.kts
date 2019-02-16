@@ -4,8 +4,8 @@ plugins {
     maven
 }
 
-group = "tomasvolker"
-version = "1.0-SNAPSHOT"
+group = "com.github.tomasvolker"
+version = "1.0"
 
 repositories {
     mavenCentral()

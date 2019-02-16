@@ -1,4 +1,4 @@
-package tomasvolker.parallel
+package com.github.tomasvolker.parallel
 
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
